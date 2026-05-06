@@ -6,6 +6,7 @@
 
 - `/` - 投資回収シミュレーター
 - `/property-diagnosis` - 物件タイプ診断ツール
+- `/anxiety-check` - 不動産投資の不安度チェック
 
 ## セットアップ
 
@@ -42,4 +43,3 @@ Netlifyでは以下の設定でデプロイできます。
 - Next.js plugin: `@netlify/plugin-nextjs`
 
 `main` ブランチへpushすると、Netlify側で自動デプロイされます。
-
